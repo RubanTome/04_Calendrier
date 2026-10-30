@@ -11,6 +11,8 @@ int daysInMonth(int month, int year);
 
 int firstDayOfMonth(int month, int year);
 
-void displayCalendar();
+void displayMonth(int month, int year);
+
+void displayCalendar(int year);
 
 #endif //INC_04_CALENDRIER_CALENDRIER_H

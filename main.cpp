@@ -41,7 +41,7 @@ int main () {
         }while (!isYearCorrect);
 
 
-        // Code
+        displayCalendar(inputYear);
 
         bool isChoiceCorrect = 1;
         do {
